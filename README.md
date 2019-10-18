@@ -10,3 +10,6 @@ build-essential libssl-dev libdb-dev libdb++-dev libboost-all-dev git libssl1.0.
 159.89.98.56
 159.89.25.176
 159.89.18.157
+
+
+Mac qt is available Now..
